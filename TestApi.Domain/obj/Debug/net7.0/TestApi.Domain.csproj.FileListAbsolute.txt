@@ -1,0 +1,12 @@
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\bin\Debug\net7.0\TestApi.Domain.deps.json
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\bin\Debug\net7.0\TestApi.Domain.dll
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\bin\Debug\net7.0\TestApi.Domain.pdb
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\TestApi.Domain.csproj.AssemblyReference.cache
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\TestApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\TestApi.Domain.AssemblyInfoInputs.cache
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\TestApi.Domain.AssemblyInfo.cs
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\TestApi.Domain.csproj.CoreCompileInputs.cache
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\TestApi.Domain.dll
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\refint\TestApi.Domain.dll
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\TestApi.Domain.pdb
+C:\Вуз_Работы\C#\Jeplex\TestApi\TestApi\TestApi.Domain\obj\Debug\net7.0\ref\TestApi.Domain.dll

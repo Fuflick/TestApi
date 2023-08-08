@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{836F0F1F-DFA3-4C30-9623-114550B51659}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7B96FBBA-5EA8-4CE8-AF90-B0DE7AAFFAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi.Domain", "TestApi.Domain\TestApi.Domain.csproj", "{A75DE681-D6FA-4FB7-9A63-9AF0457006FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{DD591C44-134C-40B8-9DF6-8CAFDC529950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi.DAL", "TestApi.DAL\TestApi.DAL.csproj", "{45D72E9C-862B-4169-9767-BF3ABDAADB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836F0F1F-DFA3-4C30-9623-114550B51659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836F0F1F-DFA3-4C30-9623-114550B51659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836F0F1F-DFA3-4C30-9623-114550B51659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836F0F1F-DFA3-4C30-9623-114550B51659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75DE681-D6FA-4FB7-9A63-9AF0457006FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75DE681-D6FA-4FB7-9A63-9AF0457006FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75DE681-D6FA-4FB7-9A63-9AF0457006FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75DE681-D6FA-4FB7-9A63-9AF0457006FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D72E9C-862B-4169-9767-BF3ABDAADB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D72E9C-862B-4169-9767-BF3ABDAADB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D72E9C-862B-4169-9767-BF3ABDAADB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D72E9C-862B-4169-9767-BF3ABDAADB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A75DE681-D6FA-4FB7-9A63-9AF0457006FC} = {7B96FBBA-5EA8-4CE8-AF90-B0DE7AAFFAE2}
+		{45D72E9C-862B-4169-9767-BF3ABDAADB0A} = {DD591C44-134C-40B8-9DF6-8CAFDC529950}
+	EndGlobalSection
+EndGlobal
